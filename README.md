@@ -12,7 +12,7 @@ The application works together with MongoDB which helps to store the data in a d
 ## How to use:
 ### Step 1: Enter to the git and download the ZIP:
 ```bash
- https://github.com/AlonShaul/To-Do-List-Project.git
+https://github.com/AlonShaul/To-Do-List-Project.git
 ```
 
 
@@ -21,31 +21,31 @@ The application works together with MongoDB which helps to store the data in a d
 
 ### Step 3: Check that you have 'MongoDB Compass' from 'Community Server', if not:
 ```bash
- 1. Go to the site of MongoDB in the next link:
-    https://www.mongodb.com
+1. Go to the site of MongoDB in the next link:
+   https://www.mongodb.com
 
- 2. Enter: 'Products' -> 'Community Server' -> 'Download' -> 'Install'
+2. Enter: 'Products' -> 'Community Server' -> 'Download' -> 'Install'
 ```
 
 
 ### Step 4: Open the TERMINAL and type the next codes:
 ```bash
- npm install
- npm i express
- npm i mongoose
- npm i body-parser
- npm i nodemon
- npm app.js
+npm install
+npm i express
+npm i mongoose
+npm i body-parser
+npm i nodemon
+npm app.js
 ```
 
 
 ### Step 5: Copy the next link in your URL address browser:
 ```bash
- http://localhost:3000
+http://localhost:3000
 ```
 
 
 ### Step 6: Now you can use the app:
 ```bash
- Good luck 🙂
+Good luck 🙂
 ```
