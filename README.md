@@ -29,7 +29,7 @@ The application works together with MongoDB which helps to store the data in a d
 ```
 
 
-### Step 4: Click on the next link:
+### Step 4: Copy the next link in your URL address browser:
 ```bash
  http://localhost:3000
 ```
