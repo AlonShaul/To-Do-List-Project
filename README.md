@@ -6,7 +6,8 @@ We created an app called "To Do List Project".<br>
 The purpose of this app is to help us manage our daily tasks.<br>
 The actions that can be performed in the application:<br>
 Add a task, delete a task.<br>
-The application works together with MongoDB which helps to store the data in a database so that it is possible to return and perform the actions even when we exit the application.<br>
+The application works together with MongoDB which helps to store the data in a database so that it is possible to return and perform the actions even when we exit the application.
+<br><br>
 
 
 ## How to use:
