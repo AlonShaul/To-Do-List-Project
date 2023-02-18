@@ -1,0 +1,36 @@
+<%- include("header") -%>
+
+
+<div class="box1" id="heading">       
+    <h1>To Do List:</h1>
+</div>        
+<div class="box" id = "box">  
+
+
+<div class="button-group">
+    <button class="button1" type="button" id="btn1" onclick="myFunction()" ><b> Click Here</b></button>
+</div>
+
+
+<div class="paragraphs">
+    <div class="para1" id ="a">
+        <b><br>Welcome to the app `To Do List'.</b></br>
+        <b><br>Here you can list tasks you need to do.<br>
+            When you finish the task you can mark ✓ and the task will be deleted.<br>
+            The application works with MongoDB.<br><br>
+            To use `To Do List` please click on the next button:</b></br>
+    </div> 
+</div>
+
+
+<div class = dev>
+    <h3>Developed By:<br>
+        Alon Shaul & Omer Shlomo</h3>
+</div>
+
+
+<script>
+    function myFunction() {
+    location.replace("/list")
+    }
+</script>

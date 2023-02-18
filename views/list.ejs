@@ -1,0 +1,33 @@
+<%- include("header") -%>
+
+<body>
+    <div class="box1" id="heading">       
+        <h1>To Do List:</h1>
+    </div>        
+    <div class="box" id = "box">  
+
+<% for(var i=0; i < newListItem.length; i++) { %>
+    <form action = "/delete", method = "post">
+         <div class="item">
+            <div class="round">
+            <input type="checkbox" name="checkbox" value="<%= newListItem[i]._id%>" onChange="this.form.submit()" id="checkbox">           
+            <label for="checkbox"></label>
+            </div>
+            <p><%= newListItem[i].name %></p>
+            <br>
+        </div>         
+    </form>     
+<% } %>
+ 
+    <form class = "item" action = "/list" method = "post">
+        <input type = "text" name = "n"  placeholder = "Enter a new task"><hr>
+        <button id = "b" type="submit"> <span id = "s2">+</span></button> 
+    </form>
+    </div>
+
+<div class = dev>
+    <h3>Developed By:<br>
+        Alon Shaul & Omer Shlomo</h3>
+</div>
+ 
+</body>
