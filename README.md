@@ -30,12 +30,12 @@ The application works together with MongoDB which helps to store the data in a d
 
 ### Step 4: Open the TERMINAL and type the next codes:
 ```bash
- 1. npm install
- 2. npm i express
- 3. npm i mongoose
- 4. npm i body-parser
- 5. npm i nodemon
- 6. npm app.js
+ npm install
+ npm i express
+ npm i mongoose
+ npm i body-parser
+ npm i nodemon
+ npm app.js
 ```
 
 
