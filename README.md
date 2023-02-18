@@ -2,7 +2,7 @@
 
 
 ## Introduction:
-**Hello Everyone!
+**Hello Everyone!**<br>
 We created an app called "To Do List Project".<br>
 The purpose of this app is to help us manage our daily tasks.<br>
 The actions that can be performed in the application:<br>
