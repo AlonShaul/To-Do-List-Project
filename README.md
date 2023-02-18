@@ -6,7 +6,7 @@ We created an app called "To Do List Project".<br>
 The purpose of this app is to help us manage our daily tasks.<br>
 The actions that can be performed in the application:<br>
 Add a task, delete a task.<br>
-The application works together with MongoDB which helps to store the data in a database so that it is possible to return and perform the actions even when we exit the application.
+The application works together with MongoDB which helps to store the data in a database so that it is possible to return and perform the actions even when we exit the application.<br>
 
 
 ## How to use:
@@ -14,9 +14,11 @@ The application works together with MongoDB which helps to store the data in a d
 ```bash
 https://github.com/AlonShaul/To-Do-List-Project.git
 ```
+<br>
 
 
 ### Step 2: Open this folder in the Visual Studio Code.
+<br>
 
 
 ### Step 3: Check that you have 'MongoDB Compass' from 'Community Server', if not:
@@ -26,6 +28,7 @@ https://github.com/AlonShaul/To-Do-List-Project.git
 
 2. Enter: 'Products' -> 'Community Server' -> 'Download' -> 'Install'
 ```
+<br>
 
 
 ### Step 4: Open the TERMINAL and type the next codes:
@@ -37,12 +40,14 @@ npm i body-parser
 npm i nodemon
 npm app.js
 ```
+<br>
 
 
 ### Step 5: Copy the next link in your URL address browser:
 ```bash
 http://localhost:3000
 ```
+<br>
 
 
 ### Step 6: Now you can use the app:
